@@ -8,9 +8,9 @@ In the Philippines, disasters usually happen due to lack of awareness. One of th
 
 Using the concept of return level, I estimated the magnitude of extreme rainfall that happens once every 25 years, once every 50 years, once every 100 years, and so on.
 
-Using the rainfall data extracted from NOAA, probability distribution of annual rainfall maxima is estimated from each of the 55 PAGASA weather stations. 
+Using the rainfall data extracted from NOAA, probability distribution of annual rainfall maxima is estimated from each of the 55 PAGASA weather stations. Multiple univariate Generalized Extreme Value Distributions (GEVD) was fitted to the data from each station. 
 
-Since not every province have a PAGASA rainfall station, we estimate the rainfall magnitude on ungauged areas using spatial interpolation (kriging).
+Since not every province have a PAGASA rainfall station, the rainfall magnitude on ungauged areas were also estimated using spatial interpolation (kriging).
 
 The final output is the map of the Philippine provinces with the amount of rainfall per return period, that is, the magnitude of rainfall that happens once every 5 years, once every 10 years, once every 25 years, and so on.
 
