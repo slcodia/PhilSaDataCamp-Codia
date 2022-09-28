@@ -7,7 +7,7 @@ This includes a Python Notebook that showcases my final output after the data ca
 
 In the Philippines, disasters usually happen due to lack of awareness. One of the reasons that the town leaders mention is "This rainfall intensity has never happened yet", that is why some come unprepared when an extreme natural event occurs. Extreme rainfalls are inevitable, but we can extend the analysis just by asking "how frequent is this extreme rainfall?"
 
-Using the concept of return level, I estimated the magnitude of extreme rainfall that happens once every 25 years, once every 50 years, once every 100 years, and so on.
+Using the concept of "return levels", I estimated the magnitude of extreme rainfall that happens once every 25 years, once every 50 years, once every 100 years, and so on.
 
 Using the rainfall data extracted from NOAA, probability distribution of annual rainfall maxima is estimated from each of the 55 PAGASA weather stations. Multiple univariate Generalized Extreme Value Distributions (GEVD) was fitted to the data from each station. 
 
