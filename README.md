@@ -3,8 +3,9 @@ Outputs from Philippine Space Agency SIICaP: Data Camp
 
 This includes a Python Notebook that showcases my final output after the data camp: a map of rainfall return levels in the Philippines.
 
+# Estimating Rainfall Return Levels in the Philippines
 
-In the Philippines, disasters usually happen due to lack of awareness. One of the reasons that the town leaders mention is "Hindi pa kasi nangyayari 'yung ganito kalakas na ulan", that is why some come unprepared when an extreme natural event occurs. Extreme rainfalls are inevitable, but we can extend the analysis just by asking "how frequent is this extreme rainfall?"
+In the Philippines, disasters usually happen due to lack of awareness. One of the reasons that the town leaders mention is "This rainfall intensity has never happened yet", that is why some come unprepared when an extreme natural event occurs. Extreme rainfalls are inevitable, but we can extend the analysis just by asking "how frequent is this extreme rainfall?"
 
 Using the concept of return level, I estimated the magnitude of extreme rainfall that happens once every 25 years, once every 50 years, once every 100 years, and so on.
 
