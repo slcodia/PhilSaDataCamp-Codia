@@ -1,6 +1,6 @@
 # PhilSaDataCamp-Codia
 
-This is my entry for Philippine Space Agency's Data Camp and 5-day Workshop on processing geospatial data using Python, GeoPandas, and Google Colab. My project won as the best proposal. The show-and-tell session can be watched <a href="https://www.youtube.com/watch?v=xQIUxWZdgsI&feature=share&utm_source=EKLEiJECCKjOmKnC5IiRIQ&t=2679">here</a>.
+This is my entry for <a href = "https://philsa.gov.ph/events/data-camp/">Philippine Space Agency's Data Camp and 5-day Workshop</a> on processing geospatial data using Python, GeoPandas, and Google Colab. My project won as the best proposal. The show-and-tell session can be watched <a href="https://www.youtube.com/watch?v=xQIUxWZdgsI&feature=share&utm_source=EKLEiJECCKjOmKnC5IiRIQ&t=2679">here</a>.
 
 This repository includes a Python Notebook that showcases my final output after the data camp: a map of rainfall return levels in the Philippines.
 
